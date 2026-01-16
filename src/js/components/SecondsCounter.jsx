@@ -3,7 +3,7 @@ const Digit = (props) => {
     return (
         <div className="card fs-1 col m-2">
             {props.number}
-            </div>
+        </div>
     )
 }
 
